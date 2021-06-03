@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Commissioners of the Parliament of the Common-Wealth of England for ordering and managing affairs in Scotland although the Parliament of the Common Wealth of England in their declaration, concerning the settlement of Scotland, have in the article that concernes religion and the advancement of the power of godliness ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43906</idno><idno type="EEBO-CITATION">489265453</idno>
+  <idno type="VID">208707</idno>
+  <idno type="EEBO-PROQUEST">2240897768</idno>
+  
+            <idno type="OCLC"> 489265453</idno>
+            <idno type="OCLC">ocn 489265453</idno>
+            <idno type="STC">Wing S996B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208707)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2957:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Commissioners of the Parliament of the Common-Wealth of England for ordering and managing affairs in Scotland although the Parliament of the Common Wealth of England in their declaration, concerning the settlement of Scotland, have in the article that concernes religion and the advancement of the power of godliness ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Evan Tyler,</publisher>
+                  <pubPlace>Printed at Leith :</pubPlace>
+                  <date>Anno Dom. 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Title taken from caption title and first lines of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208707:1"/>
+            <pb facs="tcp:208707:2"/>
+            <head>BY THE COMMISSIONERS Of the PARLIAMENT of the COMMON-VVEALTH of ENGLAND, For Ordering and Managing Affairs in SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the Parliament of the Common Wealth of <hi>England,</hi> in their Declaration, concerning the Settlement of <hi>Scotland,</hi> Have in the Article that concernes Religion, and the Advancement of the power of Godliness, held forth, That the Union tendred by them to <hi>Scotland,</hi> for making it one Common-Wealth with <hi>England,</hi> shall be (through the assistance of GOD) so managed, as may conduce to the reall good and encouragement of all those that fear GOD in both Nations, and that the People throughout the whole Island, may become such, as amongst whom the Lord may delight to dwell.</p>
+            <p>And have likewise, together with what, they publish concerning Forfeiture and Confiscation of Estates, held forth in their said Declaration, favour to severall sorts of persons, according to their respective Qua<g ref="char:EOLhyphen"/>lifications, expressed and contained therein: Yet, to the end the good Intentions of the Parliament may be more fully understood by all, and brought to happy effect, according to the Trust and Power committed to Us, We Declare,</p>
+            <p>That for promoting of Holiness, and advancing the power of Godliness, all possible care shall be used for publishing the Gospel of CHRIST, in all parts of this Land, and provision of Maintenance made and allowed to the Faithfull Dispensers thereof, together with such other encouragements, as the Magistrate may give, and may be expected by them, who demean themselves peaceably and becomingly, to the Government and Authority, by which they receive the same. As also, that care shall be taken for removing of scandalous Persons, who have intruded into the Work of the Ministry, and placing of others fitly qualified with gifts, for the instructing of the People in their stead. And that such Ministers, whose Consciences oblige them to wait upon GOD in the administration of Spirituall Ordinances, accor<g ref="char:EOLhyphen"/>ding to the Order of the <hi>Scottish</hi> Churches, with any that shall voluntarily joyn in the practice thereof, shall receive Protection and encou<g ref="char:EOLhyphen"/>ragement from all in Authority, in their peaceable and in-offensive exercise of the same; as also shall others, who not being satisfied in Conscience to use that Form, shall serve and worship GOD in other Gospel-way, and behave themselves peaceably and in-offensive<g ref="char:EOLhyphen"/>ly therein.</p>
+            <p>We shall likewise take care, as much as in Us lies, that in Places of Trust throughout this Nation, Magistrates and Officers, fearing GOD, may be set up, who according to the duty of their place, may be a terrour to all evill-doers, and even to them whose licentious practices (though under pretence of Liberty and Conscience) shall manifest them not to w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lk according to godlinesse and honesty.</p>
+            <p>And by vertue of the power on the behalf given Us, We do further Declare,</p>
+            <p>That all Persons within the Qualifications of favour, expressed in the Parliaments Declaration, being Inhabitants within the Sheriff<g ref="char:EOLhyphen"/>dom of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and the Towns and Burroughs thereof, that shall in pursuance thereof, live peaceably under, and yeeld obe<g ref="char:EOLhyphen"/>dience unto the Authority of the Parliament of the Common Wealth of <hi>England,</hi> exercised in <hi>Scotland,</hi> are capable of, and shall enjoy the respective Benefits and favours, held forth in the said Declaration, and shall have such further grants and confirmations for the compleating thereof, as shall be found requisite.</p>
+            <p>And We do lastly Declare,</p>
+            <p>That all Merchants, Tradesmen and Handy-Crafts men within the said Sheriffdom of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and the severall Burroughs and Towns thereof, not having in Lands and Goods above the clear value of Five hundred pounds sterling; And all other persons within the said Sheriffdom, Towns and Burroughs, not having in Lands and Goods above the clear value of Two hundred pounds sterling (not being prisoners at Wars, or Souldiers of Fortune in Commission) who shall also in pursuance of the said Declaration, live peaceably un<g ref="char:EOLhyphen"/>der, and yeeld obedience unto the Authority of the Parliament of the Common-Wealth of <hi>England,</hi> exercised in <hi>Scotland,</hi> shall not onely be freed and discharged from all forfeitures and Confiscations of their Estates, for any thing formerly done by them, in reference to the Wars, but be received into the Protection of Parliament, and enjoy such Liberties and Immunities, as also such Leases and grants of con<g ref="char:EOLhyphen"/>fiscated and forfeited Lands, as upon consideration of their respective qualities and deserts shalbe thought fit.</p>
+            <p>Provided the favour held forth in this Declaration, extend not unto any pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sons, commonly known by the name of Moss Troopers, or any other who have murthred or kill'd any Souldiers, contrary to the Lawes and Custome of War, or any <hi>English</hi> people, contrary to the Lawes of <hi>Scotland.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Given under our Hands at</hi> Dalkieth, <date>
+                     <hi>the <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> day of February, in the Year of our Lord, one thousand six hundred fifty and <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>;.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Leith</hi> by <hi>Evan Tyler.</hi> Anno Dom. <hi>1651.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
